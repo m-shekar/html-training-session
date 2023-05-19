@@ -21,5 +21,10 @@ learning html
   <td>activity-3</td>
   <td>understanding external of javascript</td>
   </tr>
+  <tr>
+  <td>4</td>
+  <td>activity-4</td>
+  <td>understanding noscript tag</td>
+  </tr>
 </table>
   
