@@ -26,10 +26,15 @@ learning html
   <td>activity-4</td>
   <td>understanding noscript tag</td>
   </tr>
-  tr>
+  <tr>
   <td>5</td>
   <td>activity-5</td>
   <td>create a external CSS, and link it using link tag</td>
+  </tr>
+  <tr>
+  <td>6</td>
+  <td>activity-6</td>
+  <td>insert the icon for web document</td>
   </tr>
   
 </table>
