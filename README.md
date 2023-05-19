@@ -31,11 +31,7 @@ learning html
   <td>activity-5</td>
   <td>create a external CSS, and link it using link tag</td>
   </tr>
-  <tr>
-  <td>6</td>
-  <td>activity-6</td>
-  <td>insert the icon for web document</td>
-  </tr>
+  image.png
   <tr>
   <td>7</td>
   <td>activity-7</td>
@@ -44,9 +40,12 @@ learning html
   <tr>
   <td>8</td>
   <td>activity-8</td>
-  <td>internal style sheet</td>
-  
-  </tr>
-  
+  <td>intetrrnal style sheet</td>
+ </tr>  
+ <tr>
+  <td>9</td>
+  <td>activity-9</td>
+  <td>redirect your web document after 5 seconds to another website</td>
+ </tr>  
 </table>
   
