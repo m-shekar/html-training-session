@@ -36,6 +36,12 @@ learning html
   <td>activity-6</td>
   <td>insert the icon for web document</td>
   </tr>
+  <tr>
+  <td>7</td>
+  <td>activity-7</td>
+  <td>title for web documents</td>
+  </tr>
+  <tr>
   
 </table>
   
