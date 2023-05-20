@@ -47,5 +47,10 @@ learning html
   <td>activity-9</td>
   <td>redirect your web document after 5 seconds to another website</td>
  </tr>  
+ <tr>
+  <td>10</td>
+  <td>activity-10</td>
+  <td>background image for body</td>
+ </tr>  
 </table>
   
