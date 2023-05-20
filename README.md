@@ -54,12 +54,12 @@ learning html
  </tr> 
   <tr>
   <td>11</td>
-  <td>Activity-11</td>
+  <td>activity-11</td>
   <td>anchor tags</td>
  </tr>   
  <tr>
   <td>12</td>
-  <td>Activity-12</td>
+  <td>activity-12</td>
   <td>html entities and html comments</td>
  </tr>   
 </table>
