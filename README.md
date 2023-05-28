@@ -62,10 +62,35 @@ learning html
   <td>Activity-12</td>
   <td>html entities and html comments</td>
  </tr>   
- tr>
+ <tr>
   <td>13</td>
   <td>Activity-13</td>
-  <td>Creating a table</td>
+  <td>Creating  of tables</td>
  </tr>   
-</table>
+ <tr>
+  <td>14</td>
+  <td>Activity-14</td>
+  <td>Provide border to the activity-13</td>
+ </tr>   
+ <tr>
+  <td>15</td>
+  <td>Activity-15</td>
+  <td>Headings from H1-H6</td>
+ </tr>   
+ <tr>
+  <td>16</td>
+  <td>Activity-16</td>
+  <td>Paragraphs in html</td>
+ </tr>   
+ <tr>
+  <td>17</td>
+  <td>Activity-17</td>
+  <td>HR and BR in html</td>
+ </tr> 
+ <tr>
+  <td>18</td>
+  <td>Activity-18</td>
+  <td>Div tag in html</td>
+ </tr>     
+ </table>
   
